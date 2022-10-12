@@ -1,0 +1,9 @@
+{
+	"name": "Aspiredatafactorynew",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0802c749-18b1-4979-8a84-63db7491a330",
+		"tenantId": "f8ced677-aedd-4162-ad61-26b9350aace7"
+	}
+}
